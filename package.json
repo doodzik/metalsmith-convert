@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-convert",
-  "version": "0.3.3",
+  "version": "0.3.5",
   "description": "Metalsmith plugin for converting images between file formats",
   "readmeFilename": "README.md",
   "bugs": {
@@ -30,6 +30,6 @@
     "image-size": "^0.3.5",
     "metalsmith": "^0.7.0",
     "metalsmith-collections": "^0.4.0",
-    "mocha": "^1.18.2"
+    "mocha": "^3.1.2"
   }
 }
