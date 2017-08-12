@@ -1,5 +1,7 @@
 # metalsmith-convert
 
+> This readme isn't correct anymore. Read the index.js file. This fork isn't hosted on npm.
+
 This is a plugin for [Metalsmith][] that uses [node-imagemagick-native][] to convert image-files
 
 Continuous testing courtesy of travis-ci:
